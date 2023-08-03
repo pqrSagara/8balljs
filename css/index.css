@@ -333,4 +333,8 @@ span.eight-contents {
     .magic-ball {
         margin-top: 0;
     }
+
+    .response {
+        font-size: 15px;
+    }
 }
