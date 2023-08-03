@@ -126,7 +126,8 @@ span.eight-contents {
     position: relative;
     top: 60%;
     left: 50%;
-    background-image: radial-gradient(circle 248px at center, #9fe2e0 20%, #1b9483 35%, #1b9483 100%);
+
+    /*background-image: radial-gradient(circle 248px at center, #9fe2e0 20%, #1b9483 35%, #1b9483 100%); */
     /*animation: hue 10s infinite;*/
 }
 
@@ -146,7 +147,7 @@ span.eight-contents {
     height: 100px;
     left: 50%;
     text-align: center;
-    top: -40px;
+    top: -60px;
 }
 
 .magic-ball:hover {

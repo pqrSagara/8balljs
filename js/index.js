@@ -10,7 +10,7 @@ $(function () {
         'Outlook good',
         'Yes',
         'Signs point to yes',
-        'Reply hazy try again',
+        'Unlikely',
         'Ask again later',
         'Better not tell you now',
         'Cannot predict now',
